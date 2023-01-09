@@ -31,3 +31,12 @@ git push sends the packaged
 you have to use the token password thing. You have to remember to config everything before you try and save your repo to Github. 
 The folder is under Ubuntu
 git remote add origin git@github.com:yourusername/yourrepository.git
+echo "# Reflections" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ilse-Swanepoel/Reflections.git
+git push -u origin main
+
+</p>
