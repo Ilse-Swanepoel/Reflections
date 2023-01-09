@@ -1,0 +1,31 @@
+<p>
+Version Control
+<br>
+What's the difference between Git and GitHub?
+<br>
+Git is the software on the computer. GitHub is the hub, where everything is stored and uploaded. 
+<br>
+<br>
+Can you think of an analogy to describe them?
+<br>
+Git is your fridge- its local and you can change things. Github is the market, you can share code, get code, its all in one area accessible to everyone.
+<br>
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+<br>
+Probably, just because Hub makes sense. I wouldn't remember all the commands though.
+<br>
+Did you stick to the timebox suggestions? If not, why not?
+<br>
+I probably went a little faster, my tracker says 30min but I'll probably do a bit more practise and I need to figure out what the cat command did. I did play the videos at 1.3 and 1.5 though because they people spoke very slowly.
+<br>
+Key commands
+<br>
+mkdir is make a file
+cd change directory
+rm rf is for deleting
+touch example.txt makes a txt file.
+cat example.txt shows all the stuff in the file
+git add -A kinda saves it all
+git commit -m is getting it all packaged to send
+git push sends the packaged
+you have to use the token password thing. You have to remember to config everything before you try and save your repo to Github
