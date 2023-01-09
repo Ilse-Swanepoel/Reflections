@@ -30,3 +30,4 @@ git commit -m is getting it all packaged to send
 git push sends the packaged
 you have to use the token password thing. You have to remember to config everything before you try and save your repo to Github. 
 The folder is under Ubuntu
+git remote add origin git@github.com:yourusername/yourrepository.git
