@@ -41,3 +41,15 @@ git push -u origin main
 we have added a key now.
 
 </p>
+
+<p>
+Reflection 2
+<br>
+What is a Git workflow?
+goes from work flow to staging to repo. 
+<br>
+What did you notice about your learning? What did you do when you were confused or blocked?
+I found this one hard to stay focussed on. I think because we were just doing it and not realy applying it to our own project. I did manage to learn a few different commands and actually understanding some of the code I was reading was cool. The only blocks I had were when I wasn't in the correct file or typed something incorrectly.
+<br>
+Is there anything you'd do differently if you were to repeat the learning exploration?
+Maybe have a coffee before hand. Also keep my phone in the other room so I can stayed focused.
